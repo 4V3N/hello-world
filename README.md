@@ -1,2 +1,3 @@
 # hello-world
-just  an another repository
+
+Hi, I'm Konrad. I'm beginner.
